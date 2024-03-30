@@ -12,7 +12,4 @@ def prod(a,b):
     P = a*b
     return P
 
-def div(a,b):
-    D = a/b
-    return D
 
